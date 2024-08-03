@@ -36,28 +36,18 @@ npm run dev
 Open Your Browser
 ```
 
-4. Navigate to http://localhost:3000 to view the application running locally.
+4. **Navigate to http://localhost:3000 to view the application running locally.**
 
-##File Structure
-.
-├── src
-│   ├── assets
-│   │   └── components
-│   │       ├── TodoInput.jsx
-│   │       └── TodoList.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── package.json
-├── package-lock.json
-└── README.md
-##License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Contributing
+## Contributing
+
 Feel free to fork the repository and submit pull requests. Any contributions to improve the application are welcome!
 
-##Acknowledgements
+## Acknowledgements
+
 React: A JavaScript library for building user interfaces.
 Vite: A build tool that aims to provide a faster and leaner development experience
 
